@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-image-recognition": {
+      "PACKAGE_NAME": "com.image.pro"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.image.pro"
+    }
+  },
+  "dependent_plugins": {}
+}

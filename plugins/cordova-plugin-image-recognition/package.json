@@ -1,0 +1,62 @@
+{
+  "_from": "cordova-plugin-image-recognition",
+  "_id": "cordova-plugin-image-recognition@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-LWFuiXcAn3YFWfVnk4TLNXWC+M2ifNlejjAE/Ueqh0HBxif61ZON4PahnxLj5ovQpwhuHXFHKb5Knlu6VxcGXA==",
+  "_location": "/cordova-plugin-image-recognition",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-image-recognition",
+    "name": "cordova-plugin-image-recognition",
+    "escapedName": "cordova-plugin-image-recognition",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-image-recognition/-/cordova-plugin-image-recognition-1.0.2.tgz",
+  "_shasum": "41eef71d45feb02a132178db7ce82462be5b0ad1",
+  "_spec": "cordova-plugin-image-recognition",
+  "_where": "D:\\cordova\\imagescan",
+  "author": {
+    "name": "MHD Feras Allaham",
+    "email": "mhdferas88@gmail.com",
+    "url": "https://github.com/MhdFeras"
+  },
+  "bugs": {
+    "url": "https://github.com/MhdFeras/cordova-plugin-image-recognition/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-image-recognition",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "android cordova wrapper for EastAR used for image detiction",
+  "homepage": "https://github.com/MhdFeras/cordova-plugin-image-recognition#readme",
+  "keywords": [
+    "cordova",
+    "android",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-android",
+    "augmented reality",
+    "AR",
+    "EasyAR",
+    "image recognition"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-image-recognition",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhdFeras/cordova-plugin-image-recognition.git"
+  },
+  "version": "1.0.2"
+}

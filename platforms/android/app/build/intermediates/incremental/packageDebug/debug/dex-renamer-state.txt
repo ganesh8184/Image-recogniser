@@ -1,0 +1,4 @@
+#Tue Mar 19 18:26:24 IST 2019
+base.0=D\:\\cordova\\imagescan\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
